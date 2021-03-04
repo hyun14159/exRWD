@@ -40,8 +40,6 @@ a img {
   display: flex;
   justify-content: space-between;
   background: rgba(255, 255, 255, 0.4);
-  margin-bottom: 30px;
-  border-bottom: 1px solid #e0e0e0;
 }
 
 /* 브랜드 디자인 */
